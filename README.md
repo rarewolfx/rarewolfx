@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rarewolfx&label=Profile%20Views&color=9&icon=5&pretty=false" />
+</a>
 <!--
 **rarewolfx/rarewolfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
