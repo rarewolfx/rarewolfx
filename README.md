@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehasish Haldar.</h1>
-<h3 align="center">A Pre-final year undergrad from NITK Surathkal expertised in Data Analytics domain.</h3>
+<h3 align="center">A Pre-final year undergrad from NITK Surathkal and a versatile data professional with expertise across multiple domains, including data analysis, data engineering, and machine learning engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarewolfx&label=Profile%20views&color=0e75b6&style=flat" alt="rarewolfx" /> </p>
 
